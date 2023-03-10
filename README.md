@@ -1,6 +1,6 @@
 # Analysis of Video Game Sales
 
-To view this project in your browser, vist the following (site)[https://zachsullivan.github.io/Video-Game-Sales/].
+To view this project in your browser, vist the following [site](https://zachsullivan.github.io/Video-Game-Sales/).
 
 This document details the analysis and evaluation of the profitability of video game genres in a diverse suite of geographic regions. This project utilizes the Kagel 'Video Game Sales' dataset to model the preference of gamers based on historical game sales.
 
